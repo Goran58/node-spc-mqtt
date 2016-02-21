@@ -1,0 +1,16 @@
+{
+  "name": "node-spc-mqtt",
+  "version": "0.10.0",
+  "description": "Binding between SPC Web Gateway and a MQTT broker",
+  "author": "Goran Lundquist <info@lundix.se>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Goran58/node-spc-fibaro-hc2-binding.git"
+  },
+  "dependencies": {
+    "websocket": "*",
+    "mqtt": "*"
+  },
+  "engine": "node 0.10.x",
+  "main": "node-spc-mqtt.js"
+}

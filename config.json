@@ -1,0 +1,11 @@
+{
+   "spc_gw_host":"localhost",
+   "spc_gw_port":"8088",
+   "spc_ws_user":"ws_user",
+   "spc_ws_password":"ws_pwd",
+   "spc_get_user":"get_user",
+   "spc_get_password":"get_pwd",
+   "mqtt_host":"localhost",
+   "mqtt_port":"1883",
+   "mqtt_main_topic":"/SPC/"
+}
